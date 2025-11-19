@@ -6,10 +6,10 @@ Este projeto apresenta, na prática, as etapas de coleta, obtenção e transform
 Aplicar as etapas de coleta, obtenção e transformação de dados com Power BI e MySQL na Azure a partir das diretrizes de estrutura do banco de dados "Company" forncecida durante asl aulas do curso.
 
 ### Arquivos fornecidos:
-```
-[](dio_script_bd_company.sql)
-[](dio_insercao_de_dados_e_queries.sql)
-```
+
+[dio_script_bd_company.sql](dio_script_bd_company.sql)<br>
+[dio_insercao_de_dados_e_queries.sql](dio_insercao_de_dados_e_queries.sql)
+
 ## Atividades realizadas:
 - [X] Criação de uma instância na Azure para MySQL;
 - [X] Criação do Banco de dados com base nos arquivos fornecidos;
