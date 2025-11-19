@@ -78,7 +78,7 @@ Já acrescentar consultas é diferente, pois não coloca dados ao lado, e sim em
 
  ## Arquivos:
  
- - [X] Projeto Completo no Power BI: [Clique aqui para visualizar o arquivo.](stvmmuniz_desafio_projeto_azure_mysql_ver02)
+ - [X] Projeto Completo no Power BI: [Clique aqui para visualizar o arquivo.](stvmmuniz_desafio_projeto_azure_mysql_ver02.pbix)
  
  - [X] Query da consulta employee_manager: [Clique aqui para visualizar o arquivo.](stvmmuniz_query_employee_manager.sql)
  
